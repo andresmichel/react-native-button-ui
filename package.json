@@ -1,0 +1,23 @@
+{
+  "name": "react-native-button-ui",
+  "version": "0.2.0",
+  "description": "React Native Button UI",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "button"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-button-ui",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
